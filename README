@@ -1,0 +1,45 @@
+Apprenez à programmer en Python
+Partie 3 - Activité
+
+Jeux de Labyrinthe
+------------------
+
+Lancer:
+°°°°°°°
+python3 WinStart.py
+
+Tester:
+°°°°°°°
+python3 WinMaze.py
+python3 ReadMaze.py
+
+Jouer:
+°°°°°°
+Utiliser les fléches du clavier
+
+Sauvegarde:
+°°°°°°°°°°°
+La sauvegarde est automatique lorsque vous quittez le jeu
+Vous ne pouvez pas revenir au niveau précédent
+
+Editer un nouveau labyrinthe:
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+Aller dans le répertoire file-maze
+Créer un nouveau fichier txt sachant que:
+--> d veut dire départ
+--> m veut dire mur
+--> a veut dire arrivée
+--> - veut dire rien
+--> o veut dire porte ouverte
+--> f veut dire porte fermée
+
+Vous devez modifier le fichier ListMaze.py et ajouter votre fichier.
+
+Erreur relative:
+°°°°°°°°°°°°°°°°
+Attention: Il faut lancer avec python3
+Attention: Sur MAC, les librairies ne sont pas installees
+
+
+
+
