@@ -8,7 +8,7 @@ class FinishBlock(Block):
     L'arrivee du labyrinthe - maze
     """
 
-    abbrevation = "f"
+    abbrevation = "a"
     name = "FinishBlock"
     crossable = True
     symbol = "a"
